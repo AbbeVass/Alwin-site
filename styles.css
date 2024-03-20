@@ -1,5 +1,5 @@
 * {
-    margin: 0;
+  margin: 0;
 }
 
 body {
@@ -17,3 +17,17 @@ body {
   height: 100vw;
 }
 
+.kind-row {
+  display: flex;
+  flex-direction: row;
+}
+.kind-title {
+  width: 50%;
+  display: flex;
+  justify-content: right; 
+}
+.kind-words {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
