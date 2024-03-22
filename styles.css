@@ -4,6 +4,10 @@
   user-select: none;
 }
 
+html {
+  background-color: rgb(255, 240, 36);
+}
+
 body {
   display: flex;
   flex-direction: column;
